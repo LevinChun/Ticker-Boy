@@ -51,8 +51,8 @@ module.exports = {
         server_channel_status: "988020102186303608",      
     },
     status: {
-        text: "{prefix}help | TickerBoy by Mr.SIN RE#1528 | https://dsc.gg/sizar-team",
-        type: "CUSTOM_STATUS",
+        text: "{prefix}help | LezzyTicket by SevenDev",
+        type: "STREAMING",
         url: "https://www.twitch.tv/sobhan_srza",
         presence: "dnd"
     },  
